@@ -1,0 +1,13 @@
+
+(ai_total_env) C:\Users\User\Documents\Ashesi\Intro to AI\lab0\ai-course-lab0>python environment_test.py
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.14.4
+✅ OS: Windows 11
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Conda Environment: Active (C:\Users\User\miniconda3\envs\ai_total_env)
+==================================================
